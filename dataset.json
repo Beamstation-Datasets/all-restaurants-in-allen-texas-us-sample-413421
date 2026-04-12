@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "All verified restaurant listings in Allen, Texas with a population of over 104k. Covers the local dining market filtered by the Restaurants category group with ratings, review trends, competitive rankings, and market positioning data. Refreshed weekly.",
+  "config_name": "All Restaurants in Allen, Texas, US",
+  "export_job_id": "aadeff02-342d-44e5-a3a7-086cf5f25752",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 413421,
+  "location_name": "Allen",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-allen-texas-us-sample-413421",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/413421/beamstation_413421_restaurants-us-tx_SAMPLE_DIST.csv",
+  "sample_pct": 9.47,
+  "sample_records": 16,
+  "sample_sha256": "9b2aba30f630390b4833bc3c5f36c1aa59d1619a6e7cb27f9611b93e2e49aa70",
+  "sample_size_bytes": 80378,
+  "total_records": 169,
+  "updated_at": "2026-03-31T14:30:36.171877+00:00"
+}
