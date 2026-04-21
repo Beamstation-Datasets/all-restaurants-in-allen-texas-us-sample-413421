@@ -1,12 +1,12 @@
 {
-  "export_job_id": "cdfcd0ac-b9ad-431b-9a7e-909399f032d3",
+  "export_job_id": "5c9be96f-7a26-4778-b690-ba9e97176a8e",
   "id_short": 413421,
-  "published_at": "2026-04-17T07:46:41Z",
+  "published_at": "2026-04-21T19:23:22Z",
   "repo_name": "all-restaurants-in-allen-texas-us-sample-413421",
   "sample_asset_name": "beamstation_413421_restaurants-us-tx_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/413421/beamstation_413421_restaurants-us-tx_SAMPLE_DIST.csv",
-  "sample_records": 25,
-  "sample_sha256": "581edcf039a58d7de191a10b06fb2d0eea1ad64ed8c326019902d791437628c7",
-  "sample_size_bytes": 103145,
-  "total_records": 255
+  "sample_records": 21,
+  "sample_sha256": "b0160c38d4ef264763a0cfdfc4fb1ee0f5c2f03379af6acc2768ff71b3fede2f",
+  "sample_size_bytes": 88842,
+  "total_records": 216
 }
