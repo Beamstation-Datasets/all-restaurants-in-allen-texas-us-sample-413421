@@ -1,6 +1,6 @@
 # All Restaurants in Allen, Texas, US
 
-> Free BeamStation sample export with 21 rows and masked direct-contact fields.
+> Free BeamStation sample export with 25 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `413421` |
 | Location | Allen |
 | Category | Restaurants |
-| Full dataset size | 216 records |
-| Free sample size | 21 records (9.72%) |
-| Last export | 2026-04-21T16:08:15.374608+00:00 |
+| Full dataset size | 254 records |
+| Free sample size | 25 records (9.84%) |
+| Last export | 2026-04-28T17:12:31.998712+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-allen-texas-us-sample-413421/releases/download/sample-latest/beamstation_413421_restaurants-us-tx_SAMPLE_DIST.csv) |
 
 ## What is in this sample
